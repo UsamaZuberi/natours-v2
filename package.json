@@ -1,0 +1,23 @@
+{
+  "name": "natours-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UsamaZuberi/natours-v2.git"
+  },
+  "author": "Muhammad Usama Zuberi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UsamaZuberi/natours-v2/issues"
+  },
+  "homepage": "https://github.com/UsamaZuberi/natours-v2#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "morgan": "^1.10.0"
+  }
+}
